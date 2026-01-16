@@ -12,9 +12,11 @@ python3 hop.py
     • Electricity → Black hole: “Einstein used general relativity to argue black holes were impossible”
 
 # TECH
-NetworkX (shortest-path)
-Wikipedia-API (live data)
-Sentence-Transformers (RAG retrieval)
+1)NetworkX (shortest-path)
+
+2)Wikipedia-API (live data)
+
+3)Sentence-Transformers (RAG retrieval)
 
 # INSTALL
 
